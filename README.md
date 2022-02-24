@@ -1,6 +1,6 @@
 # Portfolio
 
-# [Special Project: Computer Aided Diagnosis for Pneumonia in Chest X-Rays] (https://github.com/LeafyGlance/Pneumonia_Detection)
+# [Special Project: Computer Aided Diagnosis for Pneumonia in Chest X-Rays](https://github.com/LeafyGlance/Pneumonia_Detection)
 * Created a program that can detect if pneumonia is present in an uploaded image
 * Used random oversampling of minority class to handle data imbalance
 * Performed data augmentation
