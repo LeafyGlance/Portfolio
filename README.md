@@ -1,5 +1,3 @@
-# Lance's Portfolio
-
 ![Pneumonia Detection UI Image](/images/Pneumonia_Detection_UI.png)
 # [Special Project: Computer Aided Diagnosis for Pneumonia in Chest X-Rays](https://github.com/LeafyGlance/Pneumonia_Detection)
 * Created a program that can detect if pneumonia is present in an uploaded image
@@ -9,3 +7,6 @@
 * Created ensemble network to handle classification task based on trained networks
 * Packaged into a portable executable file
 
+---
+
+# [Project: Some Project Here]()
