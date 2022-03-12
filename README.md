@@ -1,4 +1,5 @@
-# [Special Project: Computer Aided Diagnosis for Pneumonia in Chest X-Rays](https://github.com/LeafyGlance/Pneumonia_Detection)
+# [Special Project: Pneumonia Detection System using Neural Networks](https://github.com/LeafyGlance/Pneumonia_Detection)
+A computer aided diagnosis system for detecting pneumonia in chest x-rays.
 
 ![Pneumonia Detection UI Image](/images/Pneumonia_Detection_UI.png)
 
@@ -12,4 +13,11 @@
 
 ---
 
-# [Project: Some Project Here]()
+# [Collection: Blender Animations](https://github.com/LeafyGlance/Blender_Animations)
+A small collection of animations and models created from scratch using Blender.
+
+## Highlights: 
+* Created models from scratch using low poly art style
+* Used keyframing to make simple animation loops
+* Experimented with post processing techniques
+* Rigged models with custom armatures
