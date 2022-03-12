@@ -16,6 +16,8 @@ A computer aided diagnosis system for detecting pneumonia in chest x-rays.
 # [Collection: Blender Animations](https://github.com/LeafyGlance/Blender_Animations)
 A small collection of animations and models created from scratch using Blender.
 
+![Piggy Animation Gif](/images/Piggy.gif)
+
 ## Highlights: 
 * Created models from scratch using low poly art style
 * Used keyframing to make simple animation loops
